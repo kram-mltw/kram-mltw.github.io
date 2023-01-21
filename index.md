@@ -28,7 +28,7 @@ img {
   <body>
     <div class="container">
       <div class="image">
-        <img src="kram-mltw.github.io/om-nom-icon-notion.jpeg">
+        <img src="om nom icon notion.jpeg">
       </div>
       <div class="text">
         This is my favourite character, Om Nom!

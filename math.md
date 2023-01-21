@@ -1,8 +1,7 @@
---
-Layout: Page
+---
+layout: page
+title: "Mathematics"
 
-Title: "Mathematics"
+---
 
---
-
-This is page for math stuff
+This is page for math stuff...

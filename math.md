@@ -4,7 +4,15 @@ title: "Mathematics"
 
 ---
 
-Let's just put a bunch of P4 pastpaper in here first.
+Currently I am teaching Edexcel International A Level Mathematics class. Here is the pastpapers of Pure Mathematics 3 and 4. I may put up more material later on the course.
+
+
+### Pure Mathematics 3
+
+- January 2020
+- October 2020
+- January 2021
+- October 2021
 
 ### Pure Mathematics 4
 

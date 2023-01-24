@@ -4,7 +4,7 @@ title: "Mark Lau Tin Wai"
 
 ---
 
-> 人生有兩種悲劇： 一種是沒有得到你想要的，另一種是得到了你想要的。
+> In this world there are only two tragedies. One is not getting what one wants, and the other is getting it.
 
 Hi! I am Mark Lau. This is my personal homepage. I am a Mathematics Teacher.
 
